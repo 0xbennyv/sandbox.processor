@@ -1,0 +1,149 @@
+[
+    {
+        "name": "wsl.exe",
+        "process_id": 15472,
+        "parent_process_id": 16052,
+        "path": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WindowsSubsystemForLinux_2.1.5.0_x64__8wekyb3d8bbwe\\wsl.exe",
+        "hash": "a684e8198d9e71367ab6c8d3c253ed3938c8dfb01cd8526994adb2e9c07dff0a"
+    },
+    {
+        "name": "wsl.exe",
+        "process_id": 16052,
+        "parent_process_id": 21008,
+        "path": "C:\\Windows\\system32\\wsl.exe",
+        "hash": "43ca7ad16a9ff2b76411e2d62095fcac23497cb9829fae735d76f9e9509d84a4"
+    },
+    {
+        "name": "conhost.exe",
+        "process_id": 16972,
+        "parent_process_id": 21768,
+        "path": "C:\\Windows\\system32\\conhost.exe",
+        "hash": "5eba1ddfc9d7f9a542dbea4191d3d2b9b4e5d35cbc74d978313017825fb1f286"
+    },
+    {
+        "name": "SearchProtocolHost.exe",
+        "process_id": 17280,
+        "parent_process_id": 8876,
+        "path": "",
+        "hash": ""
+    },
+    {
+        "name": "ubuntu.exe",
+        "process_id": 21008,
+        "parent_process_id": 18452,
+        "path": "C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.Ubuntu_2204.3.49.0_x64__79rhkp1fndgsc\\ubuntu.exe",
+        "hash": "dc3999dea3e7ccd63d79346b7d69e3b8d78278a899a336a885a80295362177f7"
+    },
+    {
+        "name": "wslhost.exe",
+        "process_id": 21768,
+        "parent_process_id": 3648,
+        "path": "C:\\Program Files\\WSL\\wslhost.exe",
+        "hash": "083ff4037589edec54fff89d557fdd7f4c40072eb5acded1048d2061e382e7d8"
+    },
+    {
+        "name": "wsl.exe",
+        "process_id": 3648,
+        "parent_process_id": 15472,
+        "path": "C:\\Program Files\\WSL\\wsl.exe",
+        "hash": "a684e8198d9e71367ab6c8d3c253ed3938c8dfb01cd8526994adb2e9c07dff0a"
+    },
+    {
+        "name": "OpenConsole.exe",
+        "process_id": 6236,
+        "parent_process_id": 18452,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "hash": "b03970580d34bb7c44cea7d7f2e5a8ddd407d64c18733a00e0d7adc7c75b594c"
+    },
+    {
+        "name": "OpenConsole.exe",
+        "process_id": 16560,
+        "parent_process_id": 18452,
+        "path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.19.11213.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "hash": "b03970580d34bb7c44cea7d7f2e5a8ddd407d64c18733a00e0d7adc7c75b594c"
+    },
+    {
+        "name": "cmd.exe",
+        "process_id": 16580,
+        "parent_process_id": 18452,
+        "path": "C:\\Windows\\System32\\cmd.exe",
+        "hash": "05a30592d2c3421c41121145c6eefa7c81fea6b42d6233a522240a8468326b9c"
+    },
+    {
+        "name": "cmd.exe",
+        "process_id": 10376,
+        "parent_process_id": 16580,
+        "path": "C:\\Windows\\system32\\cmd.exe",
+        "hash": "05a30592d2c3421c41121145c6eefa7c81fea6b42d6233a522240a8468326b9c"
+    },
+    {
+        "name": "powershell.exe",
+        "process_id": 18168,
+        "parent_process_id": 10376,
+        "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "hash": "3247bcfd60f6dd25f34cb74b5889ab10ef1b3ec72b4d4b3d95b5b25b534560b8"
+    },
+    {
+        "name": "cmd.exe",
+        "process_id": 3236,
+        "parent_process_id": 18168,
+        "path": "C:\\Windows\\system32\\cmd.exe",
+        "hash": "05a30592d2c3421c41121145c6eefa7c81fea6b42d6233a522240a8468326b9c"
+    },
+    {
+        "name": "dllhost.exe",
+        "process_id": 18704,
+        "parent_process_id": 1388,
+        "path": "C:\\Windows\\system32\\DllHost.exe",
+        "hash": "fdfad08eadd54a431e431febe60e87b574ce90e5502ed0be2f026a1828120fc6"
+    },
+    {
+        "name": "dllhost.exe",
+        "process_id": 20460,
+        "parent_process_id": 1388,
+        "path": "C:\\Windows\\system32\\DllHost.exe",
+        "hash": "fdfad08eadd54a431e431febe60e87b574ce90e5502ed0be2f026a1828120fc6"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 11524,
+        "parent_process_id": 12740,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 264,
+        "parent_process_id": 9084,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 9084,
+        "parent_process_id": 6424,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 14820,
+        "parent_process_id": 12740,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 15624,
+        "parent_process_id": 12740,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    },
+    {
+        "name": "Code.exe",
+        "process_id": 20156,
+        "parent_process_id": 15624,
+        "path": "C:\\Users\\BennyV\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "hash": "b231000910305a2dfe99ae1d5cd0542dbfe30b1710bda64742d0b81c2f2d5149"
+    }
+]
